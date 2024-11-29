@@ -245,7 +245,7 @@ namespace Kutuphane
             Form5 f25 = new Form5();
             f25.ShowDialog();
         }
-
+        // WHAT THE HECK is going on bro??
         private void enÇokOkunanKitaplarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form6 f26 = new Form6();
